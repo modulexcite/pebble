@@ -1,0 +1,18 @@
+{
+    "capabilities": [
+        ""
+    ],
+    "versionLabel": "1.0",
+    "uuid": "18ca3c46-7f11-490b-8965-19730d964cdf",
+    "companyName": "bcapuano@gmail.com",
+    "longName": "El Bruno Watch",
+    "appKeys": {},
+    "versionCode": 1,
+    "shortName": "El Bruno Watch",
+    "watchapp": {
+        "watchface": true
+    },
+    "resources": {
+        "media": []
+    }
+}
